@@ -1,6 +1,3 @@
-
-all: README.md
-
 README.md: guessinggame.sh
 	echo "Title:Guessing Game" > README.md
 	echo >> README.md
